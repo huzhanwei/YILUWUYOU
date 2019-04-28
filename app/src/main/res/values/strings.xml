@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">一路无忧</string>
+    <string name="yes">登录成功</string>
+    <string name="no">帐号或密码错误</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>
